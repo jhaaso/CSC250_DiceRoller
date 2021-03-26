@@ -90,7 +90,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="139dp"
                 android:gravity="center"
-                android:text="4D12"
+                android:text="4D13"
                 android:textSize="36sp" />
 
         </LinearLayout>
