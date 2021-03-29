@@ -62,7 +62,7 @@
             <Button
                 android:id="@+id/selectedDieTV"
                 android:layout_width="match_parent"
-                android:layout_height="140dp"
+                android:layout_height="143dp"
                 android:gravity="center|right"
                 android:text="4"
                 android:textSize="36sp" />
